@@ -1,1 +1,1 @@
-entitas-context-serializer
+Required Odin Inspector for config scriptable object
